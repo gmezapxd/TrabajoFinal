@@ -423,14 +423,6 @@ int main()
     {
     case 1: mostrarintrucciones();
         getch();
-
-
-
-
-
-
-         
-
         Console::Clear();
         ingresarDatos(jugadores);
         Console::Beep();
