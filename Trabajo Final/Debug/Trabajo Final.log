@@ -1,9 +1,11 @@
 ﻿  Source.cpp
-C:\Users\hp76546438\source\repos\Trabajo Final\Trabajo Final\Source.cpp(278,15): warning C4309: 'initializing': truncation of constant value
-C:\Users\hp76546438\source\repos\Trabajo Final\Trabajo Final\Source.cpp(310,9): warning C4101: 'opcion': unreferenced local variable
-C:\Users\hp76546438\source\repos\Trabajo Final\Trabajo Final\Source.cpp(432,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
-C:\Users\hp76546438\source\repos\Trabajo Final\Trabajo Final\Source.cpp(440,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\hp76546438\source\repos\Trabajo Final\Trabajo Final\Source.cpp(467,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\hp76546438\source\repos\Trabajo Final\Trabajo Final\Source.cpp(417,9): warning C4101: 'ganadores': unreferenced local variable
+C:\Users\hp76546438\Desktop\final\TrabajoFinal\Trabajo Final\Source.cpp(262,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\hp76546438\Desktop\final\TrabajoFinal\Trabajo Final\Source.cpp(294,9): warning C4101: 'opcion': unreferenced local variable
+C:\Users\hp76546438\Desktop\final\TrabajoFinal\Trabajo Final\Source.cpp(417,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\hp76546438\Desktop\final\TrabajoFinal\Trabajo Final\Source.cpp(425,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\hp76546438\Desktop\final\TrabajoFinal\Trabajo Final\Source.cpp(452,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\hp76546438\Desktop\final\TrabajoFinal\Trabajo Final\Source.cpp(402,9): warning C4101: 'ganadores': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
   Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Trabajo Final.vcxproj -> C:\Users\hp76546438\source\repos\Trabajo Final\Debug\Trabajo Final.exe
+  Trabajo Final.vcxproj -> C:\Users\hp76546438\Desktop\final\TrabajoFinal\Debug\Trabajo Final.exe
